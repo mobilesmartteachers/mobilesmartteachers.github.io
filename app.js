@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // If on other page and no direct match, try home page search
                 window.location.href = 'index.html?search=' + encodeURIComponent(query);
             } else {
-                alert("No specific results found for '" + query + "'. Try searching for 'Math', 'Science', 'Courses', or 'Videos'.");
+                alert("No specific results found for '" + query + "'. Try searching for 'Math', 'Science', 'Courses', or 'Videos','English'.");
             }
         }
     }
