@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+  <!-- Group for scaling/positioning -->
+  <g transform="translate(10, 10)">
+      <!-- Logo Icon: A stylized abstract Play/Music shape -->
+      <!-- Circle container -->
+      <circle cx="50" cy="50" r="45" fill="#EF4444" />
+      
+      <!-- Inner Play Triangle -->
+      <path d="M42 35 L 70 50 L 42 65 Z" fill="white" />
+      
+      <!-- Decorative Orbit/Wave -->
+      <path d="M20 80 Q 50 110 80 80" stroke="white" stroke-width="4" fill="none" opacity="0.5" />
+
+      <!-- Text Section -->
+      <!-- "UNIQUE" in Red -->
+      <text x="115" y="65" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="60" fill="#EF4444" letter-spacing="-2">UNIQUE</text>
+      
+      <!-- "MUSIC BLOG" in White/Gray -->
+      <text x="360" y="65" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="60" fill="#F3F4F6" letter-spacing="-1">MUSIC</text>
+  </g>
+</svg>
