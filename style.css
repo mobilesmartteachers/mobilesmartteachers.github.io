@@ -279,14 +279,17 @@ body {
 
 .course-thumb {
     position: relative;
-    height: 180px;
+    height: 220px;
+    background-color: #f3f4f6;
     overflow: hidden;
 }
 
 .course-thumb img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
+    display: block;
 }
 
 .course-badge {
